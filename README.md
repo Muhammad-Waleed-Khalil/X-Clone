@@ -1,6 +1,6 @@
-Here’s the complete `README.md` file with a "Copy Code" option for easy copying:
 
-```markdown
+
+
 # MERN App Setup Guide
 
 ## Getting Started
